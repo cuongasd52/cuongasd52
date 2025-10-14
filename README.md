@@ -1,19 +1,55 @@
-<h1 align="center">Hi 👋, I'm Nguyen Cuong</h1>
+<h1 align="center">👋 Hi there, I'm Cuong Nguyen</h1>
 <h3 align="center">🔐 Aspiring Blue Team Engineer | Cybersecurity Enthusiast | Java Developer</h3>
 
-- 🔭 I’m currently working on **🧩 Network Scanner in Python – Simple multithreaded port scanner using socket and threading**
+---
 
-- 🌱 I’m currently learning **CompTIA Security+, CompTIA CySA+, Network+, SOC Analysis, Python for Security**
+### 🧠 About Me
+- 💻 Passionate about **Cybersecurity** and **Software Engineering**  
+- 🎯 Focused on building a career in **Blue Team / Defensive Security**  
+- 📚 Currently learning: `CompTIA Security+`, `CompTIA CySA+`, `Network+`, `SOC Analysis`, `Python for Security`  
+- ⚔️ Enjoy participating in CTFs on [OverTheWire](https://overthewire.org/), [TryHackMe](https://tryhackme.com/p/cuongasd52), and [PortSwigger](https://portswigger.net/)
 
-- 📫 How to reach me **cuongasd52@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mynameiscuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mynameiscuong" height="30" width="40" /></a>
-<a href="https://fb.com/mynameiscuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mynameiscuong" height="30" width="40" /></a>
+### 🧰 Skills & Tools
+
+#### 🔹 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🔹 Security Tools & Platforms
+![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3C3C3D?style=for-the-badge&logo=metasploit&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+- 🧩 **Network Scanner in Python** – Simple multithreaded port scanner using `socket` and `threading`
+- 🔍 **SOC Log Analysis Lab** – Analyzing logs from simulated systems (syslog, firewall, etc.)
+- 🧱 **Java CRUD App** – Student management system built with `JavaFX` + `MySQL`
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cuongasd52&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cuongasd52&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongasd52&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongasd52&show_icons=true&locale=en&layout=compact" alt="cuongasd52" /></p>
+---
+
+### 🌐 Connect with Me
+📫 Email: **cuongasd52@gmail.com**   
+🏆 TryHackMe: [https://tryhackme.com/p/cuongasd52](https://tryhackme.com/p/cuongasd52)
+
+---
+
+⭐ *“Defend. Detect. Respond.”*  
