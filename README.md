@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/230327318-42646738-2329-418c-84a1-e9b216147923.png" alt="Blue Team Banner" width="800"/>
-</p>
+
 
 <h1 align="center">👋 Hi there, I'm Cuong Nguyen</h1>
 <h3 align="center">🛡️ Aspiring Blue Team Engineer | Cybersecurity Enthusiast | Java Developer</h3>
