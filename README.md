@@ -47,8 +47,7 @@
 ---
 
 ### 🌐 Connect with Me
-📫 Email: **cuongasd52@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+📫 Email: **cuongasd52@gmail.com**   
 🏆 TryHackMe: [https://tryhackme.com/p/cuongasd52](https://tryhackme.com/p/cuongasd52)
 
 ---
