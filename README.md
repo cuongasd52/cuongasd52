@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 Hi there, I'm Cuong Nguyen</h1>
-<h3 align="center">🛡️ Aspiring Blue Team Engineer | Cybersecurity Enthusiast | Java Developer</h3>
+<h3 align="center">🛡️ Aspiring Blue Team Engineer | SEC+ | CCD </h3>
 
 ---
 
@@ -11,7 +11,7 @@ I am deeply passionate about **Cybersecurity** and **Software Engineering**. My 
 
 - 🎯 **Focusing on:** Roles like SOC Analyst, Security Engineer, and Digital Forensics.
 - 📚 **Currently learning:** `CompTIA Security+`, `CompTIA CySA+`, `Network+`, `SOC Analysis`, `Python for Security`.
-- ⚔️ **Challenge seeker:** I regularly participate in CTF competitions on platforms like [OverTheWire](https://overthewire.org/), [TryHackMe](https://tryhackme.com/p/cuongasd52), and [PortSwigger](https://portswigger.net/).
+- ⚔️ **Challenge seeker:** I regularly participate in CTF competitions on platforms like [TryHackMe](https://tryhackme.com/p/cuongasd52), and [CyberDefenders](https://cyberdefenders.org/).
 
 ---
 
