@@ -10,7 +10,8 @@
 I am deeply passionate about **Cybersecurity** and **Software Engineering**. My goal is to build a solid career in **Defensive Security (Blue Team)**.
 
 - 🎯 **Focusing on:** Roles like SOC Analyst, Security Engineer, and Digital Forensics.
-- 📚 **Currently learning:** `CompTIA Security+`, `CompTIA CySA+`, `Network+`, `SOC Analysis`, `Python for Security`.
+- 🏆 **Certificate:** `CompTIA Security+`
+- 📚 **Currently learning:** `Certified Cyber Defender`, `Powershell`, `Python for scripting`
 - ⚔️ **Challenge seeker:** I regularly participate in CTF competitions on platforms like [TryHackMe](https://tryhackme.com/p/cuongasd52), and [CyberDefenders](https://cyberdefenders.org/).
 
 ---
