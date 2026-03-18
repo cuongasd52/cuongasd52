@@ -51,13 +51,6 @@ I am deeply passionate about **Cybersecurity** and **Software Engineering**. My 
 
 ---
 
-### 💡 Featured Projects
-
-- 🛡️ **Network Scanner in Python** – A multi-threaded port scanner using `socket` and `threading` to discover open services.
-- 🔍 **SOC Log Analysis Lab** – Built a lab environment to analyze logs from simulated systems (syslog, firewall, IDS) to detect anomalies.
-- 🧱 **Java CRUD Application** – A student management system built with `JavaFX` and `MySQL`, showcasing software development skills.
-
----
 
 ### 📈 GitHub Stats
 
